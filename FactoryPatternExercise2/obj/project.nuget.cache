@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Dq7OsLlsII6hB7mzWxDOpr7ZxyACt8mzwMxDtQ8MHFDRhf+nGJfFdGdOrTLvo6MzsMrcxZ1T5cHozWCRNBvMyQ==",
+  "dgSpecHash": "432wyNckP6DpDyRnqCu7XVnw3Mpz4uuegA+Ftv6/pJilVQbt6kWH75VqecOlcL8xorPKLEl/kI7WdpbnVpsDFA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Desktop\\new\\FactoryPatternExercise2\\FactoryPatternExercise2\\FactoryPatternExercise2.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/trillion/Repos/Factory-Pattern-Exercise-2/FactoryPatternExercise2/FactoryPatternExercise2.csproj",
+  "expectedPackageFiles": [
+    "/home/trillion/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.19/microsoft.netcore.app.host.linux-x64.6.0.19.nupkg.sha512"
+  ],
   "logs": []
 }

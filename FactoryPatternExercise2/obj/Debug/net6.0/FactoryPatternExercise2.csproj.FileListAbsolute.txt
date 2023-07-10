@@ -1,0 +1,15 @@
+/home/trillion/Repos/Factory-Pattern-Exercise-2/FactoryPatternExercise2/bin/Debug/net6.0/FactoryPatternExercise2
+/home/trillion/Repos/Factory-Pattern-Exercise-2/FactoryPatternExercise2/bin/Debug/net6.0/FactoryPatternExercise2.deps.json
+/home/trillion/Repos/Factory-Pattern-Exercise-2/FactoryPatternExercise2/bin/Debug/net6.0/FactoryPatternExercise2.runtimeconfig.json
+/home/trillion/Repos/Factory-Pattern-Exercise-2/FactoryPatternExercise2/bin/Debug/net6.0/FactoryPatternExercise2.dll
+/home/trillion/Repos/Factory-Pattern-Exercise-2/FactoryPatternExercise2/bin/Debug/net6.0/FactoryPatternExercise2.pdb
+/home/trillion/Repos/Factory-Pattern-Exercise-2/FactoryPatternExercise2/obj/Debug/net6.0/FactoryPatternExercise2.csproj.AssemblyReference.cache
+/home/trillion/Repos/Factory-Pattern-Exercise-2/FactoryPatternExercise2/obj/Debug/net6.0/FactoryPatternExercise2.GeneratedMSBuildEditorConfig.editorconfig
+/home/trillion/Repos/Factory-Pattern-Exercise-2/FactoryPatternExercise2/obj/Debug/net6.0/FactoryPatternExercise2.AssemblyInfoInputs.cache
+/home/trillion/Repos/Factory-Pattern-Exercise-2/FactoryPatternExercise2/obj/Debug/net6.0/FactoryPatternExercise2.AssemblyInfo.cs
+/home/trillion/Repos/Factory-Pattern-Exercise-2/FactoryPatternExercise2/obj/Debug/net6.0/FactoryPatternExercise2.csproj.CoreCompileInputs.cache
+/home/trillion/Repos/Factory-Pattern-Exercise-2/FactoryPatternExercise2/obj/Debug/net6.0/FactoryPatternExercise2.dll
+/home/trillion/Repos/Factory-Pattern-Exercise-2/FactoryPatternExercise2/obj/Debug/net6.0/refint/FactoryPatternExercise2.dll
+/home/trillion/Repos/Factory-Pattern-Exercise-2/FactoryPatternExercise2/obj/Debug/net6.0/FactoryPatternExercise2.pdb
+/home/trillion/Repos/Factory-Pattern-Exercise-2/FactoryPatternExercise2/obj/Debug/net6.0/FactoryPatternExercise2.genruntimeconfig.cache
+/home/trillion/Repos/Factory-Pattern-Exercise-2/FactoryPatternExercise2/obj/Debug/net6.0/ref/FactoryPatternExercise2.dll
